@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* BOJ: [![Solved.ac
+* [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=raararaara)](https://solved.ac/raararaara)
 
-* Codeforces: [![](https://run.kaist.ac.kr/badges/codeforces/raararaara.svg)](https://codeforces.com/profile/raararaara)
+* [![](https://run.kaist.ac.kr/badges/codeforces/raararaara.svg)](https://codeforces.com/profile/raararaara)
