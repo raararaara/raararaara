@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=raararaara)](https://solved.ac/raararaara)
 
-[![](https://run.kaist.ac.kr/badges/codeforces/raararaara.svg)]
+[![](https://run.kaist.ac.kr/badges/codeforces/raararaara.svg)](https://codeforces.com/profile/Justice_Hui)
