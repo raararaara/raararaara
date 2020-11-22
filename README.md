@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=raararaara)](https://solved.ac/raararaara)
+[![](https://run.kaist.ac.kr/badges/codeforces/raararaara.svg)](https://codeforces.com/profile/raararaara)
