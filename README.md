@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=raararaara)](https://solved.ac/raararaara)
+BOJ: [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=raararaara)](https://solved.ac/raararaara)
 
-[![](https://run.kaist.ac.kr/badges/codeforces/raararaara.svg)](https://codeforces.com/profile/Justice_Hui)
+Codeforces: [![](https://run.kaist.ac.kr/badges/codeforces/raararaara.svg)](https://codeforces.com/profile/raararaara)
